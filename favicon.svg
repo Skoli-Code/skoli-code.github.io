@@ -32,9 +32,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5653999"
-     inkscape:cx="177.16536"
-     inkscape:cy="177.17839"
+     inkscape:zoom="3.6280234"
+     inkscape:cx="128.40552"
+     inkscape:cy="135.39341"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -70,27 +70,39 @@
        width="149.00989"
        height="149.0099"
        x="0.49505219"
-       y="204.82576" />
+       y="204.82576"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/toutenrab/Dev/_PRO/Skoli/website/src/favicon.png" />
     <rect
        style="fill:#fdb50a;fill-opacity:1"
        id="rect3755"
        width="75"
        height="50"
        x="75"
-       y="204.3307" />
+       y="204.3307"
+       inkscape:export-filename="/home/toutenrab/Dev/_PRO/Skoli/website/src/favicon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#d24829;fill-opacity:1"
        id="rect3755-3"
        width="75"
        height="50"
        x="75"
-       y="254.3307" />
+       y="254.3307"
+       inkscape:export-filename="/home/toutenrab/Dev/_PRO/Skoli/website/src/favicon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#007fd2;fill-opacity:1"
        id="rect3755-3-6"
        width="75"
        height="50"
        x="75"
-       y="304.33072" />
+       y="304.34375"
+       inkscape:export-filename="/home/toutenrab/Dev/_PRO/Skoli/website/src/favicon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
